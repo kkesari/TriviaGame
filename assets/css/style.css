@@ -1,0 +1,28 @@
+body{
+ background: #b288be6e;
+} 
+.jumbotron {
+    padding-left: 0px;
+    text-align: center;
+    margin: 2% 40% 2% 3%;
+    background-color:rgb(129, 103, 129);
+    color: white;
+    }
+
+#card1 {
+    padding-left: 0px;
+    text-align: left;
+    margin: 2% 40% 2% 3%;
+    background-color:rgb(129, 103, 129);
+    color: white;
+    }
+#showTimer {
+    text-align: center;
+}
+
+#start {
+    display:block;
+    align-items: center;
+    justify-content: center;
+    margin: 2% 40% 2% 3%;
+  }
